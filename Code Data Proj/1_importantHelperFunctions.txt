@@ -1,0 +1,54 @@
+🔡 Character & ASCII Utilities
+Function	Description	Example
+ord(x)	Converts a character to its ASCII value	ord('A') → 65
+chr(x)	Converts an ASCII value to its character	chr(97) → 'a'
+ord('a') - ord('A')	Helps with case-insensitive logic	32 difference
+
+🔢 Numeric Conversion & Rounding
+Function	Description	Example
+int(x)	Converts to integer	int("42") → 42
+float(x)	Converts to float	float("3.14") → 3.14
+round(x)	Rounds a float to nearest int	round(3.6) → 4
+abs(x)	Absolute value	abs(-5) → 5
+pow(a, b)	Exponentiation	pow(2, 3) → 8 (same as 2 ** 3)
+divmod(a, b)	Returns (a // b, a % b)	divmod(10, 3) → (3, 1)
+
+🔁 Iterable Operations
+Function	Description	Example
+len(x)	Number of elements	len("hello") → 5
+sum(x)	Adds all elements	sum([1, 2, 3]) → 6
+max(x) / min(x)	Largest/smallest value	max([1, 5, 3]) → 5
+sorted(x)	Returns a new sorted list	sorted([3, 1, 2]) → [1, 2, 3]
+reversed(x)	Returns a reversed iterator	list(reversed("abc")) → ['c', 'b', 'a']
+enumerate(x)	Pairs index and value	for i, v in enumerate(['a', 'b'])
+zip(a, b)	Combines iterables	zip([1,2],[3,4]) → [(1,3),(2,4)]
+
+🧠 Logical and Functional Tools
+Function	Description	Example
+all(x)	True if all values are True	all([True, True]) → True
+any(x)	True if any value is True	any([False, True]) → True
+map(func, iter)	Applies func to each item	map(str.upper, ['a','b']) → ['A','B']
+filter(func, iter)	Filters by condition	filter(lambda x: x > 0, [-1,2]) → [2]
+lambda	Anonymous function	lambda x: x*x
+eval(x)	Executes a string as code	eval("2+2") → 4 (use with care)
+
+🛠️ Bonus: String Methods You’ll Use Often
+Method	Purpose	Example
+s.lower() / s.upper()	Case conversion	"HeLLo".lower() → "hello"
+s.isalpha() / s.isdigit()	Checks content	"abc".isalpha() → True
+s.strip()	Removes spaces	" hello ".strip() → "hello"
+s.startswith(x) / s.endswith(x)	Prefix/suffix check	"abc".startswith("a") → True
+'sep'.join(list)	Join list into string	'-'.join(['a','b']) → 'a-b'
+
+🧪 Interview Tip:
+Many programming questions can be solved faster by combining:
+
+ord() / chr() for char logic
+
+sorted() + set() for uniqueness
+
+zip() + map() for pairwise logic
+
+enumerate() for indexing in loops
+
+lambda with map or filter for quick transformations

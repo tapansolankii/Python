@@ -1,0 +1,92 @@
+https://www.youtube.com/watch?v=lvO88XxNAzs
+
+
+List of Problems from Leetcode:
+Arrays:
+1. 217. Contains Duplicate
+2. 268. Missing Number
+3. 448. Find All Numbers Disappeared in an Array
+4. 1. Two Sum
+5. 1365. How Many Numbers Are Smaller Than the Current Number
+6. 1266. Minimum Time Visiting All Points
+7. 54 - Spiral Matrix.
+8. 200 - number of islands.
+9. 219. Contains Duplicate II
+10. 845. Longest Mountain in Array
+11. 15. 3Sum
+12. 977. Squares of a Sorted Array
+13. 121. Best Time to Buy and Sell Stock
+14. 1200. Minimum Absolute Difference
+15. 209. Minimum Size Subarray Sum
+16. 136. Single Number
+
+Dynamic Programming:
+17. 322. Coin Change
+18. 70. Climbing Stairs
+19. 53. Maximum Subarray
+20. 338. Counting Bits
+21. 303. Range Sum Query - Immutable
+
+Backtracking:
+a. Permutations
+22. 784. Letter Case Permutation
+23. 78. Subsets
+
+b. Combinations
+24. 77. Combinations
+25. 46. Permutations
+
+Linked Lists:
+26. 876. Middle of the Linked List
+27. 141. Linked List Cycle
+28. 206. Reverse Linked List
+29. 203. Remove Linked List Elements
+30. 234. Palindrome Linked List
+31. 21. Merge Two Sorted Lists
+
+Stack:
+32. 155. Min Stack
+33. 20. Valid Parentheses
+34. 150. Evaluate Reverse Polish Notation
+Stack Sorting (LeetCode_AllPatterns\1_Stack_sorting.py)
+
+Queues:
+35. 225. Implement Stack using Queues
+36. 2073. Time Needed to Buy Tickets
+
+Binary Trees:
+37. 637. Average of Levels in Binary Tree
+38. 104. Maximum Depth of Binary Tree
+39. 102. Binary Tree Level Order Traversal
+40. 100. Same Tree
+41. 112. Path Sum
+42. 543. Diameter of Binary Tree
+43. 226. Invert Binary Tree
+44. 236. Lowest Common Ancestor of a Binary Tree
+
+Binary Search Trees:
+45. 700. Search in a Binary Search Tree
+46. 701. Insert into a Binary Search Tree
+47. 108. Convert Sorted Array to Binary Search Tree
+48. 653. Two Sum IV - Input is a BST
+49. 235. Lowest Common Ancestor of a Binary Search Tree
+50. 530. Minimum Absolute Difference in BST (or)
+51. 783. Minimum Distance Between BST Nodes (same as above problem)
+52. 1382. Balance a Binary Search Tree
+53. 450. Delete Node in a BST
+
+Heaps:
+54. 215. Kth Largest Element in an Array
+55. 973. K Closest Points to Origin
+56. 347. Top K Frequent Elements
+57. 621. Task Scheduler
+
+Graphs:
+58. 133. Clone Graph
+59. 787. Cheapest Flights Within K Stops
+60. 207. Course Schedule
+
+Additional:
+Binary Search Tree:
+1. 104. Maximum Depth of Binary Tree (DFS)
+2. 102. Binary Tree Level Order Traversal (BFS)

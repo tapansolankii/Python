@@ -1,0 +1,163 @@
+Leetcode Problems Solved:
+
+Easy:
+
+a. Strings:
+1. 14. Longest Common Prefix
+2. 58. Length of Last Word
+3. 67. Add Binary
+4. 125. Valid Palindrome
+5. 168. Excel Sheet Column Title (IMPORTANT!!)..........
+6. 171. Excel Sheet Column Number (IMPORTANT!!)..........
+7. 290. Word Pattern (IMPORTANT!!)..........
+8. 344. Reverse String
+9. 392. Is Subsequence (IMPORTANT!!)..........
+10. 415. Add Strings
+11. 434. Number of Segments in a String (IMPORTANT!!)..........
+12. 459. Repeated Substring Pattern (IMPORTANT!!)..........
+13. 482. License Key Formatting
+14. 500. Keyboard Row
+15. 520. Detect Capital
+16. 521. Longest Uncommon Subsequence I
+17. 541. Reverse String II (IMPORTANT!!)..........
+18. 551. Student Attendance Record I
+19. 557. Reverse Words in a String III
+
+b. Arrays:
+1. 26. Remove Duplicates from Sorted Array
+2. 27. Remove Element
+3. 28. Find the Index of the First Occurrence in a String
+4. 66. Plus One
+5. 136. Single Number
+6. 118. Pascal's Triangle
+7. 119. Pascal's Triangle II
+8. 169. Majority Element (Boyer-Moore Voting Algorithm)..........
+9. 217. Contains Duplicate
+10. 219. Contains Duplicate II
+11. 228. Summary Ranges (Didn't understand)........
+12. 283. Move Zeroes
+13. 303. Range Sum Query - Immutable
+14. 412. Fizz Buzz
+15. 448. Find All Numbers Disappeared in an Array (IMPORTANT!!)..........
+16. 455. Assign Cookies
+17. 463. Island Perimeter (IMPORTANT!!)..........
+18. 485. Max Consecutive Ones
+19. 495. Teemo Attacking
+20. 496. Next Greater Element I
+21. 506. Relative Ranks (IMPORTANT!!)..........
+22. 561. Array Partition
+23. 575. Distribute Candies
+
+c. Numbers
+1. 69. Sqrt(x)
+2. 202. Happy Number
+3. 231. Power of Two
+4. 258. Add Digits
+5. 263. Ugly Number
+6. 268. Missing Number
+7. 278. First Bad Version (IMPORTANT!!)..........
+8. 292. Nim Game
+9. 326. Power of Three (IMPORTANT!!)..........
+10. 342. Power of Four (IMPORTANT!!)..........
+11. 367. Valid Perfect Square
+12. 374. Guess Number Higher or Lower
+13. 401. Binary Watch (IMPORTANT!!)..........
+14. 405. Convert a Number to Hexadecimal (IMPORTANT!!)..........
+15. 441. Arranging Coins
+16. 492. Construct the Rectangle
+17. 504. Base 7
+18. 507. Perfect Number
+19. 509. Fibonacci Number
+
+d. Linked Lists
+1. 83. Remove Duplicates from Sorted List
+2. 160. Intersection of Two Linked Lists (IMPORTANT!!)..........
+3. 203. Remove Linked List Elements
+4. 206. Reverse Linked 
+5. 234. Palindrome Linked List
+
+e. 2-Pointer Technique
+1. 88. Merge Sorted Array
+
+f. Trees:
+1. 94. Binary Tree Inorder Traversal
+2. 101. Symmetric Tree
+3. 104. Maximum Depth of Binary Tree
+4. 110. Balanced Binary Tree
+5. 144. Binary Tree Preorder Traversal
+6. 145. Binary Tree Postorder Traversal
+7. 222. Count Complete Tree Nodes
+8. 257. Binary Tree Paths
+9. 404. Sum of Left Leaves
+10. 501. Find Mode in Binary Search Tree
+11. 559. Maximum Depth of N-ary Tree
+12. 563. Binary Tree Tilt
+13. 572. Subtree of Another Tree (IMPORTANT!!)..........
+
+g. SQL
+1. 175. Combine Two Tables
+2. 181. Employees Earning More Than Their Managers
+3. 182. Duplicate Emails
+4. 183. Customers Who Never Order
+5. 196. Delete Duplicate Emails
+6. 197. Rising Temperature
+7. 511. Game Play Analysis I
+8. 577. Employee Bonus
+9. 584. Find Customer Referee
+
+h. Bits
+1. 190. Reverse Bits
+2. 191. Number of 1 Bits
+3. 2220. Minimum Bit Flips to Convert Number
+4. 461. Hamming Distance (same as 2220.)
+5. 1009. Complement of Base 10 Integer (IMPORTANT!!)..........
+6. 476. Number Complement (same as 1009.)
+
+i. Regular Expressions / Bash scripting / Shell
+1. 193. Valid Phone Numbers
+2. 195. Tenth Line
+
+j. Dictionary
+1. 205. Isomorphic Strings
+2. 242. Valid Anagram
+3. 350. Intersection of Two Arrays II (IMPORTANT!!)..........
+4. 387. First Unique Character in a String
+5. 389. Find the Difference
+6. 409. Longest Palindrome (IMPORTANT!!)..........
+
+k. Stack / Queue
+1. 232. Implement Queue using Stacks
+
+l. Sets
+1. 349. Intersection of Two Arrays
+
+m. Heaps
+1. 414. Third Maximum Number (IMPORTANT!!)..........
+
+n. Matrix
+1. 566. Reshape the Matrix
+
+/////////////////////////////////////////////
+/////////////////////////////////////////////
+/////////////////////////////////////////////
+
+Medium:
+
+a. Stack
+1. 155. Min Stack
+
+b. Matrix
+1. 54. Spiral Matrix
+
+c. Arrays
+1. 16. 3Sum Closest
+2. 17. Letter Combinations of a Phone Number
+
+/////////////////////////////////////////////
+/////////////////////////////////////////////
+/////////////////////////////////////////////
+
+Hard:
+
+a. Dynamic Programming:
+1. 10. Regular Expression Matching

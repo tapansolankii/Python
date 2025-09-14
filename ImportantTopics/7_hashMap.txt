@@ -1,0 +1,81 @@
+What is a Hash Map?
+A Hash Map is a key-value data structure that allows you to store and retrieve data efficiently. In Python, it is implemented as a dictionary (dict).
+
+Key Features of Hash Maps:
+Key-Value Pair Storage - Each value is associated with a unique key.
+Fast Lookup - Uses hashing to locate values in O(1) time on average.
+Unordered - In Python 3.6+, dictionaries preserve insertion order.
+Python Dictionary as a Hash Map
+1. Creating a Hash Map (Dictionary):
+python
+Copy code
+# Creating an empty hash map
+hash_map = {}
+
+# Adding key-value pairs
+hash_map['name'] = 'Yashwanth'
+hash_map['age'] = 25
+hash_map['role'] = 'Software Engineer'
+
+print(hash_map)
+Output:
+
+arduino
+Copy code
+{'name': 'Yashwanth', 'age': 25, 'role': 'Software Engineer'}
+2. Accessing Values:
+python
+Copy code
+print(hash_map['name'])  # Output: Yashwanth
+Note: If the key does not exist, it raises a KeyError.
+
+To avoid errors, use .get():
+
+python
+Copy code
+print(hash_map.get('city', 'Not Found'))  # Output: Not Found
+3. Modifying Values:
+python
+Copy code
+hash_map['age'] = 26  # Update value
+print(hash_map)       # {'name': 'Yashwanth', 'age': 26, 'role': 'Software Engineer'}
+4. Removing Key-Value Pairs:
+python
+Copy code
+# Remove specific key
+hash_map.pop('role')  # Removes 'role' and returns its value
+
+# Clear all elements
+hash_map.clear()
+print(hash_map)  # Output: {}
+5. Iterating Through a Hash Map:
+python
+Copy code
+hash_map = {'a': 1, 'b': 2, 'c': 3}
+
+# Iterating through keys
+for key in hash_map:
+    print(key, hash_map[key])
+
+# Iterating through key-value pairs
+for key, value in hash_map.items():
+    print(key, value)
+6. Checking Existence of a Key:
+python
+Copy code
+if 'name' in hash_map:
+    print('Key exists!')
+7. Useful Methods:
+python
+Copy code
+# Get all keys
+print(hash_map.keys())
+
+# Get all values
+print(hash_map.values())
+
+# Get all key-value pairs
+print(hash_map.items())
+
+# Default value if key not present
+print(hash_map.get('address', 'N/A'))
